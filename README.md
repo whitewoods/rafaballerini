@@ -18,15 +18,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-w
   <img align="center" alt="woods-MySQL" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-
-  <img align="right" alt="yabujin-pic" height="150" style="border-radius:50px;" 
-       src="https://tenor.com/view/yabujin-yabujin-baroque-angel-of-the-garden-gif-25835415width=676&height=676">
-</div>
-  
-  ##
- 
-<div> 
- 
-  ![Snake animation](https://github.com/whitewoods/whitewoods/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
